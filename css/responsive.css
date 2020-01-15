@@ -131,4 +131,10 @@
     padding-top: 8vh !important;
     padding-bottom: 14vh !important;
   }
+
+  .header .logoimg.logo_light {
+    position: absolute;
+    top: -7px;
+    left: 22px;
+  }
 }
